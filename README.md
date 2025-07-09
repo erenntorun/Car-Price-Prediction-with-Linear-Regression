@@ -51,11 +51,11 @@ Additionally, matplotlib is used to **visualize actual vs predicted prices**.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/erenntorun/car-price-prediction.git
+   git clone https://github.com/erenntorun/car-price-prediction-with-linear-regression.git
 
 2. Navigate to the project directory:
    ```bash
-   cd car-price-prediction
+   cd car-price-prediction-with-linear-regression
 
 3. Install required libraries:
    ```bash
@@ -65,7 +65,7 @@ Additionally, matplotlib is used to **visualize actual vs predicted prices**.
  
 5. Run the script
    ```bash
-   python car_price_prediction.py
+   python Car_Price_Prediction.py
 
 
 📌 Notes
